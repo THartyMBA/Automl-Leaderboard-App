@@ -5,3 +5,4 @@ scikit-learn
 lightgbm        # safe to keep; Streamlit Cloud installs wheel automatically
 shap
 plotly
+matplotlib
